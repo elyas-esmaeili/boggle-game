@@ -1,2 +1,2 @@
 # boggle-game
-Boggle game mpelementaion
+Boggle game impelementaion

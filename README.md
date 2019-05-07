@@ -1,2 +1,2 @@
 # boggle-game
-Boggle game http://impelementaion/
+Boggle game mpelementaion
